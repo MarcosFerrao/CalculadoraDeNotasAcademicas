@@ -1,13 +1,15 @@
 """
-Programa para criar uma calculdor de notas acadêmcas em Python
+Programa para criar uma calculador de notas acadêmcas em Python
 
 Dados diferentes e éso e otas dos alinos, precisamo encontrar as notas finais.
-A pontuação daprova é uma média das respectivas notas(provas, trabalhos, laboratório).
+A pontuação da prova é uma média das respectivas notas(provas, trabalhos, laboratório).
 
 A pontuação final da prova é atribuida usando a formíla abaixo.
 25% das notas obtidas na submissão de trabalhos.
 55% das notas obtidas nas provas
-28% das notas obtidas no laboratório]]A nota será calculade de acordo com:
+28% das notas obtidas no laboratório
+
+A nota será calculada de acordo com:
 1. pontuação >= 90: "A"
 2. pontuação >= 80: "B"
 3. pontuação >= 70: "C"
